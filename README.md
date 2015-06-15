@@ -11,7 +11,7 @@ We combine these three data sets by columns to create one big data set
 We then renamed the activity codes to activity names
 We then renamed the variables of this data-set to more descriptive labels
 We then calculated the average of all these variables for each user for each activity & written the output to a text file
-
+In last step we used the view command to view this same dataset in R console to ensure it is a tidy data-set
 
 Detailed Explanation:
 
@@ -30,3 +30,4 @@ Detailed Explanation:
 13--Cerate descriptive data labels for all the variables for the data set created in step 11
 14--Use aggregate function to calculate means of all the variables for each user for each activity
 15--Write the output to a text file called result.txt
+16--Read this result.txt file to another data set & then use view command to see the output in R console to ensure it is a tidy data set

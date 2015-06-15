@@ -81,4 +81,10 @@ result_data<-aggregate(final_data, by=list(final_data$Activity,final_data$Subjec
 
 ## printing only the required columns
 result<-result_data[,c(1:2,5:70)]
+colnames(result)[1]<-"Activity"
+colnames(result)[2]<-"User"
 write.table(result,"result.txt",row.name=FALSE)
+
+## Code to view the data set to ensure it is tidy data
+data<-read.table("result.txt",header=TRUE)
+View(data)
