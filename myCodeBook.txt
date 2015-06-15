@@ -1,0 +1,69 @@
+Group.1-- Activity  performed by the person during observation (Walking,Walking_upstairs,Walking_downstairs,Sitting,Standing,Laying)
+Group.2-- Code of the users on whom these activities are being performed & these measurements are being taken (30 users in total; coded 1 to 30)
+Column 3--Mean triaxial acceleration of the body on the x axis of the phone
+Column 4--Mean triaxial acceleration of the body on the y axis of the phone
+Column 5--Mean triaxial acceleration of the body on the z axis of the phone
+Column 6--Mean triaxial acceleration of the gravity on the x axis of the phone
+Column 7--Mean triaxial acceleration of the gravity on the y axis of the phone
+Column 8--Mean triaxial acceleration of the gravity on the z axis of the phone
+Column 9--Mean triaxial Jerk of the body on the x axis of the phone
+Column 10--Mean triaxial Jerk of the body on the y axis of the phone
+Column 11--Mean triaxial Jerk of the body on the z axis of the phone
+Column 12--Mean triaxial angular velocity of the body on the x axis of the phone
+Column 13--Mean triaxial angular velocity of the body on the y axis of the phone
+Column 14--Mean triaxial angular velocity of the body on the z axis of the phone
+Column 15--Mean triaxial angular velocity jerk of the body on the x axis of the phone
+Column 16--Mean triaxial angular velocity jerk of the body on the y axis of the phone
+Column 17--Mean triaxial angular velocity jerk of the body on the z axis of the phone
+Column 18--Mean triaxial body acceleration magnitude
+Column 19--Mean triaxial gravity acceleration magnitude
+Column 20--Mean triaxial body acceleration jerk magnitude
+Column 21--Mean triaxial body angular velocity magnitude
+Column 22--Mean triaxial body angular velocity jerk magnitude
+Column 23--Mean frequency of body acceleration in x direction
+Column 24--Mean frequency of body acceleration in y direction
+Column 25--Mean frequency of body acceleration in z direction
+Column 26--Mean frequency of body acceleration jerk in x direction
+Column 27--Mean frequency of body acceleration jerk in y direction
+Column 28--Mean frequency of body acceleration jerk in z direction
+Column 29--Mean frequency of body angular velocity in x direction
+Column 30--Mean frequency of body angular velocity in y direction
+Column 31--Mean frequency of body angular velocity in z direction
+Column 32--Mean frequency of body acceleration magnitude
+Column 33--Mean frequency of body body acceleration jerk magnitude
+Column 34--Mean frequency of body body angular velocity magnitude
+Column 35--Mean frequency of body body angular velocity jerk magnitude
+Column 36--Standard deviation of triaxial acceleration of the body on the x axis of the phone
+Column 37--Standard deviation of triaxial acceleration of the body on the y axis of the phone
+Column 38--Standard deviation of triaxial acceleration of the body on the z axis of the phone
+Column 39--Standard deviation of triaxial acceleration of the gravity on the x axis of the phone
+Column 40--Standard deviation of triaxial acceleration of the gravity on the y axis of the phone
+Column 41--Standard deviation of triaxial acceleration of the gravity on the z axis of the phone
+Column 42--Standard deviation of triaxial Jerk of the body on the x axis of the phone
+Column 43--Standard deviation of triaxial Jerk of the body on the y axis of the phone
+Column 44--Standard deviation of triaxial Jerk of the body on the z axis of the phone
+Column 45--Standard deviation of triaxial angular velocity of the body on the x axis of the phone
+Column 46--Standard deviation of triaxial angular velocity of the body on the y axis of the phone
+Column 47--Standard deviation of triaxial angular velocity of the body on the z axis of the phone
+Column 48--Standard deviation of triaxial angular velocity jerk of the body on the x axis of the phone
+Column 49--Standard deviation of triaxial angular velocity jerk of the body on the x axis of the phone
+Column 50--Standard deviation of triaxial angular velocity jerk of the body on the x axis of the phone
+Column 51--Standard deviation of triaxial body acceleration magnitude
+Column 52--Standard deviation of triaxial gravity acceleration magnitude
+Column 53--Standard deviation of triaxial body acceleration jerk magnitude
+Column 54--Standard deviation of triaxial body angular velocity magnitude
+Column 55--Standard deviation of triaxial body angular velocity jerk magnitude
+Column 56--Standard deviation of frequency of body acceleration in x direction
+Column 57--Standard deviation of frequency of body acceleration in y direction
+Column 58--Standard deviation of frequency of body acceleration in z direction
+Column 59--Standard deviation of frequency of body acceleration jerk in x direction
+Column 60--Standard deviation of frequency of body acceleration jerk in y direction
+Column 61--Standard deviation of frequency of body acceleration jerk in z direction
+Column 62--Standard deviation of frequency of body angular velocity in x direction
+Column 63--Standard deviation of frequency of body angular velocity in y direction
+Column 64--Standard deviation of frequency of body angular velocity in z direction
+Column 65--Standard deviation of frequency of body acceleration magnitude
+Column 66--Standard deviation of frequency of body acceleration jerk magnitude
+Column 67--Standard deviation of frequency of body body angular velocity magnitude
+Column 68--Standard deviation of frequency of body body angular velocity jerk magnitude
+
